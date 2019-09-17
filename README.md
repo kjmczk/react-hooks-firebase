@@ -1,4 +1,4 @@
-# React Hooks Firebase
+This project was created in the [How to connect Firebase Cloud Firestore to your React App](https://medium.com/@kjmczk/how-to-connect-firebase-cloud-firestore-to-your-react-app-1118fd182c60) tutorial.
 
 ## Quick Start
 
